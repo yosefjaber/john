@@ -1,0 +1,5 @@
+discord
+requests
+random
+openai
+python-dotenv
